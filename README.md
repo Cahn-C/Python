@@ -1,3 +1,3 @@
-# Python and Databricks Notes
+# Python
 
-This repository consists of python scripts and along with other projects that will be created in python, sql, scala and r.
+This repository consists of python scripts that will invovle in data manipulation, data visualization, data cleaning, web scarping and machine learning.
